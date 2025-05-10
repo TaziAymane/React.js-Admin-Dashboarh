@@ -1,2 +1,3 @@
 <h1>Live Demo </h1>
-Failed to upload "Dashboard - Google Chrome 2025-05-10 12-58-17.mp4" 
+
+![Capture](https://github.com/user-attachments/assets/9f4b58a9-9301-44f0-a96f-ab6335e0ae79)
